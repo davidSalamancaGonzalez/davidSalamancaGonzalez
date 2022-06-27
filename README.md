@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidSalamancaGonzalez
-- 👀 I’m interested in photography and skateboarding.
-- 🌱 I’m currently learning HTML, CSS, javaSCript
+- 👀 Interested in photography and IA.
+- 🌱 Currently learning HTML, CSS, javaSCript
 
 
 <!---
