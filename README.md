@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidSalamancaGonzalez
-- 
+-  Hi
 - 🌱 Currently learning HTML, CSS, javaSCript
 
 
