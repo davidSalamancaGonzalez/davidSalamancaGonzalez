@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @davidSalamancaGonzalez
-- 👀 Interested in photography and IA.
 - 🌱 Currently learning HTML, CSS, javaSCript
 
 
