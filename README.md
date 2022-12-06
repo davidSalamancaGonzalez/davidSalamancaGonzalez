@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @davidSalamancaGonzalez
+- 👋 Hi, I’m @davidSalamanca
 - 🌱 Currently learning @Angular at ITacademy 
 
