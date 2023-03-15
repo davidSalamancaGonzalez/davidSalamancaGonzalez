@@ -1,4 +1,4 @@
-👋 Hi there! My name is David and I'm a front end developer with experience in HTML, CSS, JavaScript, Angular, MySQL, MongoDB and nodeJS. 
+👋 Hi there! My name is David and I'm a front end developer with experience in HTML, CSS, JavaScript and Angular.
 
 I recently completed a course at ITacademy in Barcelona, where I honed my skills and learned about the latest technologies and best practices in the field.
 
