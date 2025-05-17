@@ -1,9 +1,11 @@
-👋 Hi there! My name is David and I'm a front end developer with experience in HTML, CSS, JavaScript and Angular.
+👋 Hi there! I'm David, a Front-End Developer with strong skills in Angular (v13+), TypeScript, HTML, CSS/SCSS, and JavaScript.
 
-I am passionate about building beautiful and functional websites that deliver a great user experience. I am constantly learning and looking for ways to improve my skills and stay up-to-date with the latest developments technology.
+I’m passionate about creating clean, scalable, and efficient web applications that provide real value and a smooth user experience. I enjoy collaborating with teams and continuously learning new technologies — currently expanding my skills with React and Docker.
 
-On my GitHub profile, you can see some of the projects I have worked on and my contributions to the developer community. I am always open to collaborating on new and exciting projects, so feel free to reach out and connect with me.
+Among my projects is SkateScanner, a web platform that compares prices of skateboards from over 150 European shops, helping users save money and find the best deals. It’s built with Angular 19 and Node.js/Express, and I’m excited to keep evolving it by adding community features and supporting non-profit initiatives.
 
-Thank you for visiting my profile ;)
+Feel free to check out my repositories to see my work and contributions. I’m always open to connecting and collaborating on interesting projects, so don’t hesitate to reach out!
+
+Thanks for stopping by ;)
 
 David
