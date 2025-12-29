@@ -1,11 +1,15 @@
-👋 Hi there! I'm David, a Front-End Developer with strong skills in Angular (v13+), TypeScript, HTML, CSS/SCSS, and JavaScript.
+### 👋 About Me
 
-I’m passionate about creating clean, scalable, and efficient web applications that provide real value and a smooth user experience. I enjoy collaborating with teams and continuously learning new technologies — currently expanding my skills with React and Docker.
+I'm a **Front-End Developer** with **3+ years of professional experience** working in large-scale corporate environments. I specialize in building robust, scalable web applications and staying on the bleeding edge of the **Angular ecosystem** (v13+ to v19).
 
-Among my projects is SkateScanner, a web platform that compares prices of skateboards from over 150 European shops, helping users save money and find the best deals. It’s built with Angular 19 and Node.js/Express, and I’m excited to keep evolving it by adding community features and supporting non-profit initiatives.
+**💻 What I bring to the table:**
+* **Professional Exp:** Proven track record in large organizations, ensuring scalability, clean architecture, and best practices.
+* **Core Stack:** Angular (Expert level), TypeScript, JavaScript & Node.js.
+* **Current Focus:** Building **SkateScanner** 🛹 (Angular 19 + Node.js) & expanding my skills in React and Docker.
 
-Feel free to check out my repositories to see my work and contributions. I’m always open to connecting and collaborating on interesting projects, so don’t hesitate to reach out!
+**🚀 Featured Project:**
+**SkateScanner** – A price comparison platform for **150+ European skate shops**.
+* Built with **Angular 19** & **Node.js/Express**.
+* Helps the community find the best deals while supporting non-profit initiatives.
 
-Thanks for stopping by ;)
-
-David
+📫 **Let's connect!** I'm always open to discussing new technologies, collaborations, and interesting opportunities.
